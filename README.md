@@ -1,5 +1,4 @@
 # Predykcja-decyzji-kredytowej-analiza-por-wnawcza-modeli-ML
-# Predykcja decyzji kredytowej – analiza porównawcza modeli ML
 
 Projekt zaliczeniowy z przedmiotu **Podstawy Sztucznej Inteligencji** (Uniwersytet Ekonomiczny w Katowicach, kierunek Analityka Finansowa 2.0).
 
